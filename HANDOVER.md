@@ -2,7 +2,7 @@
 
 ## Current state
 
-Date: 6 October 2026. Customer-facing prototype implemented; release verification in progress.
+Date: 6 October 2026. Customer-facing prototype published; live site and successful GitHub Pages deployment verified.
 
 Repository: https://github.com/nathanwoork/NeatRelay-Service
 
@@ -33,3 +33,16 @@ Dashboard: syntax and meaningful backup validation passed, including legacy impo
 Service: desktop and mobile layout/navigation checked; package recommendation and contact package selection passed; email draft points to the confirmed address without sending; fictional acceptance is gated by all four checklist items. Process, People and About views checked; no service console errors observed. No horizontal overflow in tested mobile views.
 
 Both public repositories exist and GitHub Pages is configured for main/root. Publishing and public deployment verification follow this entry. Remaining limitations: static prototypes, local-only delegation, no real client portal or enquiry backend, draft pricing and unvalidated business assumptions.
+
+### 6 October 2026 — published and verified
+
+- Dashboard source: https://github.com/nathanwoork/NeatRelay — application commit 174189f7206ff2cdafe0f839c8d9d1fbc1cb81b7.
+- Dashboard site: https://nathanwoork.github.io/NeatRelay/ — live delegation page verified; fresh handoff register contains no QA assignments.
+- Service source: https://github.com/nathanwoork/NeatRelay-Service — application commit ac00ae219298fe7c833915ed7f9c3b5dce2c197f.
+- Service site: https://nathanwoork.github.io/NeatRelay-Service/ — live home and pricing navigation verified.
+- Both application commits have successful GitHub Pages workflow results. Desktop screenshots saved in local focused/verification; mobile checks and interactions are recorded above.
+- Portfolio repository commit 81b5d335503a6d1382d3267bcacd63f7ca9a95ea publishes a redirect only at the legacy neatrelay/index.html plus legacy documentation. The root portfolio is preserved. Redirect deployment verification is recorded in the central local log.
+- This release also updates the workspace index and handover instructions. Historical entries above describe earlier states; this entry and Current state take precedence.
+
+Next: Nathan reviews the service copy and draft prices, prepares one complete synthetic workflow with failure tests, and validates the offer before accepting client work. Future hires can be planned through Delegate work; actual shared assignments remain in Trello or another agreed system. No invitations, hiring, emails, payments or client-data processing occurred in this release.
+
