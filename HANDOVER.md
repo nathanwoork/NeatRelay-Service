@@ -2,7 +2,7 @@
 
 ## Current state
 
-Date: 6 October 2026. Customer-facing prototype published; live site and successful GitHub Pages deployment verified.
+Date: 12 October 2026. Relay Spectrum redesign published and verified; customer-facing service remains a pre-launch prototype.
 
 Repository: https://github.com/nathanwoork/NeatRelay-Service
 
@@ -59,3 +59,11 @@ Verification: desktop (approximately 1280px), tablet (820px), phone (390px) and 
 Selected text colour pairs meet 4.5:1 (6.0–13.8:1 in checked semantic pairs). Shared files are byte-identical across the two sites. No full accessibility certification or cross-browser/device-lab testing is claimed. Fonts cover the current Latin content; non-Latin localisations require a deliberate font extension. The dashboard is still browser-local with no automatic Trello sync; service remains a prototype. No new customer, hiring or financial outcomes are implied.
 
 Next: publish and verify GitHub Pages, then Nathan can review the visual direction. Continue business validation and implementation tasks separately.
+
+### 12 October 2026 — Relay Spectrum published
+
+Both GitHub Pages application deployments succeeded and the live dashboard and service home were inspected. Dashboard redesign commit: 2eb62a96ccefb05fa19a971e6da03d9477b7982e. Service redesign commit: 0f4102ef676f5f8de9ef41c9981a5e1b619c7d78.
+
+Live sites: https://nathanwoork.github.io/NeatRelay/ and https://nathanwoork.github.io/NeatRelay-Service/. Reusable visual guide: https://nathanwoork.github.io/NeatRelay/design-system.html (also included in the service repository). Canonical workspace sources: focused/design-system/. Screenshot evidence and QA details are in focused/verification/2026-10-12/.
+
+This entry supersedes earlier visual descriptions. Task data and dates still describe the original planning snapshot; a visual release is not a task completion or business launch. Nathan can now review this direction and use the guide for future projects.
