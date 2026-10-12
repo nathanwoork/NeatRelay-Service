@@ -46,3 +46,16 @@ Both public repositories exist and GitHub Pages is configured for main/root. Pub
 
 Next: Nathan reviews the service copy and draft prices, prepares one complete synthetic workflow with failure tests, and validates the offer before accepting client work. Future hires can be planned through Delegate work; actual shared assignments remain in Trello or another agreed system. No invitations, hiring, emails, payments or client-data processing occurred in this release.
 
+### 12 October 2026 — Relay Spectrum redesign in progress
+
+Applied Nathan’s dashboard references and researched Asana/monday examples. Added shared semantic colour tokens, locally hosted licensed Manrope/Space Grotesk fonts, an honest task-completion dial, themed dashboard/service views and a reusable visual design guide. Storage, backup schema, pricing and service boundaries are preserved. Desktop first pass inspected; responsive/interaction verification and publishing follow.
+
+### 12 October 2026 — redesign verification complete; publishing
+
+Relay Spectrum now covers both sites, including boards, forms, delegation, pricing, profile/vision and the client demo. The canonical shared kit is in focused/design-system; each repository includes DESIGN-LANGUAGE.md, design-system.html, colour tokens, embedded fonts and OFL notices. Local playbook, brand memo and workspace index now point to this direction.
+
+Verification: desktop (approximately 1280px), tablet (820px), phone (390px) and narrow phone (320px) were rendered. All dashboard/service routes were checked for phone overflow; dashboard secondary routes also checked at desktop. Tablet sidebar overlap was found and fixed by aligning CSS and JavaScript drawer breakpoints at 900px; menu navigation, Enter and Escape were rechecked. Task filtering, edit dialog, count recalculation (4/24 to 5/24), reload persistence and restoration to the original task status passed. Legacy backup/delegation tests passed. Service package selection, email draft preparation without sending, demo workboard and four-check acceptance gate passed. The design specimen status/density controls passed. No JavaScript errors appeared in inspected tabs.
+
+Selected text colour pairs meet 4.5:1 (6.0–13.8:1 in checked semantic pairs). Shared files are byte-identical across the two sites. No full accessibility certification or cross-browser/device-lab testing is claimed. Fonts cover the current Latin content; non-Latin localisations require a deliberate font extension. The dashboard is still browser-local with no automatic Trello sync; service remains a prototype. No new customer, hiring or financial outcomes are implied.
+
+Next: publish and verify GitHub Pages, then Nathan can review the visual direction. Continue business validation and implementation tasks separately.

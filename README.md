@@ -26,3 +26,7 @@ Static HTML/CSS/JavaScript, no dependencies or build step. Serve the folder with
 Update HANDOVER.md whenever changing code, content, design or deployment. Preserve dated history and record tests, unresolved issues and next steps. Do not publish personal prospect records, private finances, credentials, or local dashboard exports.
 
 Before making the service operational: validate the offer, confirm legal/business arrangements, review accessibility and real content, define privacy/retention and support, and design a secure enquiry/client-portal backend if needed. The visible demo is not authentication or a production customer system.
+
+## Relay Spectrum redesign · 12 October 2026
+
+The current visual language is Relay Spectrum. See [the visual guide](design-system.html) and [design documentation](DESIGN-LANGUAGE.md). Shared assets: relay-tokens.css, fonts.css and FONT-LICENSES.txt; relay-theme.css contains this site’s application. Fonts are locally embedded under SIL OFL. Existing behaviour and storage remain unchanged.

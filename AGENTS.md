@@ -6,3 +6,5 @@ Keep customer-facing NeatRelay Service separate from the operations dashboard. T
 
 Public repositories must contain only publishable code and documentation, never private finance workbooks, prospect lists, credentials, invitation tokens or local JSON backups.
 
+
+For visual builds/redesigns, use the distinctive-web-design skill and DESIGN-LANGUAGE.md. Preserve Relay Spectrum semantic roles; adapt composition to the audience. Inspect desktop, intermediate and phone widths before handoff. Shared assets have canonical workspace sources in focused/design-system and must stay aligned across both repositories.
