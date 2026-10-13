@@ -67,3 +67,13 @@ Both GitHub Pages application deployments succeeded and the live dashboard and s
 Live sites: https://nathanwoork.github.io/NeatRelay/ and https://nathanwoork.github.io/NeatRelay-Service/. Reusable visual guide: https://nathanwoork.github.io/NeatRelay/design-system.html (also included in the service repository). Canonical workspace sources: focused/design-system/. Screenshot evidence and QA details are in focused/verification/2026-10-12/.
 
 This entry supersedes earlier visual descriptions. Task data and dates still describe the original planning snapshot; a visual release is not a task completion or business launch. Nathan can now review this direction and use the guide for future projects.
+
+### 13 October 2026 — clarified first-sale service
+
+Nathan selected observation-led workflow improvement with a Google Sheets dashboard and process documentation for one agreed flow. Updated the pilot description, deliverables, exclusions and quote basis; RM1800 is no longer the generic public pilot price. Added an illustrative handover explanation, KL/Selangor observation and optional separately scoped web dashboards. Dashboard planning decisions reflect the current first-sale priority; existing task statuses are preserved.
+
+Private intake, scope/pricing, draft terms and delivery instructions were prepared in the Astra Sandbox project. A fictional Google Sheets starter was created and checked for formula updates, typed dropdown tables and visual layout. Internal documents, spreadsheet links, pricing calculations, buyer details and account identifiers are not published here. Client-specific approval and delivery remain future work. Website syntax and responsive/interaction checks are being completed before release.
+
+### 13 October 2026 — verification and release preparation
+
+Native Google Sheets starter was visually reviewed on all four tabs; formula changes and restoration passed after repairing imported dates. Public service copy explains one observed process, a Sheets dashboard, operating documents, guided implementation and scope-dependent price. The public repositories exclude all private starter links, terms drafts and quote calculations. Service page desktop/mobile and package enquiry checks completed before publishing. The working brand is retained and no sale/client outcome is recorded.

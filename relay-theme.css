@@ -12,3 +12,5 @@ body{font-family:var(--relay-font-text)}h1,h2,h3,.brand,.flow-label,.price,.proc
 @media(max-width:370px){.hero-art{padding:22px}.flow-label{font-size:32px}.art-top{font-size:7px}.art-top strong{font-size:8px}.flow-card strong{font-size:13px}.art-footer{flex-direction:column}.page-head h1{font-size:38px}.hero .actions .button{width:100%}.brand{font-size:23px}.brand small{font-size:7px}}
 
 .flow-card:has(+.art-footer){background:var(--relay-mint);border-color:#9fc9ac}
+
+.price-custom{font-size:31px;line-height:1.25}.price-custom span{display:block;margin-top:7px}

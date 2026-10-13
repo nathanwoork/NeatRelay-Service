@@ -17,7 +17,7 @@ Seven routes: Home, Services, How it works, Client demo, People, About and Conta
 - Enquiry form prepares a visible email draft to Nathan's confirmed public address. The visitor reviews it and opens their own email app to send. There is no form backend, automatic send, booking, payment or CRM integration.
 - Nathan is the only named founder. Other specialist roles are explicitly planned, not current staff or partnerships.
 
-The RM650 / RM1,800 / RM450 prices are draft pilot hypotheses. Company registration/name checks, availability, real delivery capability and demand remain unverified. Do not add fabricated testimonials or results.
+RM650 diagnostic and RM450/month support remain draft hypotheses. One-Flow Pilot is quoted after scope assessment; the earlier RM1,800 generic pilot price is superseded. Observation-led improvement, a Google Sheets dashboard and process documents now form the core pilot. Company registration/name checks, availability, real delivery capability and demand remain unverified. Do not add fabricated testimonials or results.
 
 ## Development and release
 
