@@ -77,3 +77,7 @@ Private intake, scope/pricing, draft terms and delivery instructions were prepar
 ### 13 October 2026 — verification and release preparation
 
 Native Google Sheets starter was visually reviewed on all four tabs; formula changes and restoration passed after repairing imported dates. Public service copy explains one observed process, a Sheets dashboard, operating documents, guided implementation and scope-dependent price. The public repositories exclude all private starter links, terms drafts and quote calculations. Service page desktop/mobile and package enquiry checks completed before publishing. The working brand is retained and no sale/client outcome is recorded.
+
+### 13 October 2026 — first-sale offer published
+
+Dashboard planning update commit: 4b340ff6ec59b1cea941d0f7213daa54a3413bb8. Service clarification commit: 4405dc7770885c3ec3e128d92fd29fdb9479ce39. Both GitHub Pages deployments succeeded; live service pricing shows Scoped quote and the current dashboard records the new first-sale direction. Desktop/mobile service checks passed, and the pilot enquiry button selects One-Flow Pilot. Native starter recalculation and new-record tests passed; sample data restored. Private working documents and workbook are kept out of the public repositories. No sale, event attendance, outreach, signed contract or operational client outcome is claimed.
